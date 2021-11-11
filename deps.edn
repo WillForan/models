@@ -1,0 +1,6 @@
+{:deps {scad-clj/scad-clj {:mvn/version "0.5.3"} ;; model
+        clj-commons/pomegranate {:mvn/version "1.2.1"} ;; live depends
+        philoskim/debux   {:mvn/version "0.8.1"}      ;; (dbg)
+}
+ ;:paths ["resources" "src" "target" "test"]
+}
